@@ -18,10 +18,6 @@ Table of Contents
 
  - [Benefits of Using Bitcoin](#benefits of using bitcoin)
 
- - [Founders and Team](#founders and team)
-
- - [Press Contacts](#press contacts)
-
  - [Frequently Asked Questions](#frequently asked questions)
 
  - [Download Links](#download links)
@@ -34,23 +30,7 @@ Table of Contents
 
 Company Name: GoHyper
 
-Founded:  **TO BE DONE**
-
-Headquarters: **TO BE DONE**
-
 Website: <a href="https://gohyper.app/">gohyper.app</a>
-
----
-
-### Social Media:
-
-Twitter:  **TO BE DONE**
-
-Facebook:  **TO BE DONE**
-
-Instagram:  **TO BE DONE**
-
-GoHyper is a revolutionary ride-sharing app that leverages the power of Bitcoin for seamless, secure, and efficient payments. Our mission is to provide a reliable, user-friendly, and cost-effective transportation solution while promoting the adoption of cryptocurrency.
 
 ---
 
@@ -62,7 +42,7 @@ Platform: iOS, Android
 
 Category: Ride-Sharing, Transportation
 
-Release Date:  **TO BE DONE**
+Release Date:  Currently in beta
 
 GoHyper is designed to connect riders with drivers effortlessly. By integrating Bitcoin as the primary payment method, we ensure fast, transparent, and low-fee transactions for all users.
 
@@ -112,30 +92,6 @@ Privacy: Enhanced privacy for users with no need to share personal financial inf
 
 ---
 
-### Founders and Team
-
-Founder & CEO:  **TO BE DONE**
-
-CTO:  **TO BE DONE**
-
-COO:  **TO BE DONE**
-
-Team:  **TO BE DONE**
-
----
-
-Press Contacts
-
-Press Contact Name:  **TO BE DONE**
-
-Email: **TO BE DONE**
-
-Phone:  **TO BE DONE**
-
-Address:  **TO BE DONE**
-
----
-
 ### Frequently Asked Questions (FAQs)
 
 Q1: How do I get started with GoHyper?
@@ -156,20 +112,16 @@ A3: Ride prices are calculated based on distance, time, and demand, similar to o
 
 ### Download Links
 
-iOS:  **TO BE DONE**
-
-Android:  **TO BE DONE**
+iOS:  <a href = "https://testflight.apple.com/join/u3Wv3Tg4">Download</a>  
 
 ---
 
 ### Visual Assets
 
-Logos: <a href = "./assets/appicon.png" download>Logo Download</a>
+Logos: <a href = "../assets/appicon.png" download>Logo Download</a>
 
-App Screenshots: <a href = "./assets/screenshot/fairfide.jpg">Screenshot Download</a>
+App Screenshots: <a href="../assets/screenshot/gohyper_screenshots.zip">Download Screenshots</a>
 
-Founder Photos:  **TO BE DONE**
-
-Promotional Videos: **TO BE DONE**
+App Recordings: <a href = "../assets/videos/Fairfide.mp4"></a>
 
 For additional information, interviews, or media inquiries, please contact our press team at [Email Address].

@@ -5,7 +5,9 @@ include_in_header: true
 ---
 
 # How It Works
-GoHyper is an app built on the decentralized Gig-Gossip protocol, integrating Bitcoin and NOSTR for secure connections. Users can pay with Bitcoin through the Lightning Network, earning rewards even for routing messages. The app ensures decentralized operations, offering peer-to-peer connectivity for direct interactions between riders and drivers. Users can negotiate prices in real-time, enjoy instant booking, and access 24/7 support. Security features include KYC and driver screening, while a community ratings system ensures service quality. GoHyper creates a secure, efficient, and user-centric ridesharing experience.
+GoHyper is currently in early beta testing and operates on the Bitcoin Testnet, accessible via TestFlight. Built on the decentralized Gig-Gossip protocol, it integrates Bitcoin and NOSTR for secure interactions. Users can pay with Bitcoin through the Lightning Network, earning rewards even for routing messages. The app offers peer-to-peer connectivity, real-time price negotiations, instant booking, and 24/7 support, with robust security features and a community ratings system ensuring service quality.
+
+Join our testing group on TestFlight and make a difference. Your feedback will help shape the future of ridesharing!
 
 <br>
 
@@ -36,13 +38,13 @@ Meet your driver at the designated pick-up point and enjoy your ride. You can co
 ## Frequently Asked Questions
 
 **Q: How do I pay for my ride?**  
-A: All payments are processed through the Bitcoin Lightning Network, ensuring fast, secure, and low-cost transactions.
+A: The app contains a built in bitcoin wallet to manage your funds, You can add bitcoin at any time using your wallets address or add or send funds using lightning invoices.
 
 **Q: Can I choose my driver?**  
 A: Yes, you can view driver profiles, ratings, and vehicle details before booking your ride.
 
-**Q: What if I need help during my ride?**  
-A: Our 24/7 support team is here to assist you with any issues or questions you may have.
+**Q: What if my ride dosent go as planned?**  
+A: If your driver hasn't been active for 2 minutes after accepting a ride you will have the option to request a refund.
 
 <br>
 
@@ -56,5 +58,5 @@ A: Our 24/7 support team is here to assist you with any issues or questions you 
 
 ### Call to Action
 
-[Download GoHyper Now](#)
+[Download GoHyper Now](https://testflight.apple.com/join/u3Wv3Tg4)
 
